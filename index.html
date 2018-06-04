@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Cream City Games</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/lib/w3.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <!-- NAVIGATION -->
+  <div id "h1" class="w3-top">
+    <div class="w3-bar w3-pink">
+      <span class="branding w3-bar-item w3-mobile ">#PWNHUB by CreamCityGames</span>
+      <span class="w3-right w3-mobile">
+
+        <a class="w3-bar-item w3-button w3-mobile w3-hover-pink w3-card">Home</a>
+        <a class="w3-bar-item w3-button w3-mobile w3-hover-pink" href="#about">Register</a>
+        <a class="w3-bar-item w3-button w3-mobile w3-hover-pink" href="#contact">Contact</a>
+        <i class="fa fa-home"></i>
+      </span>
+    </div>
+  </div>
+
+  <!-- SHOWCASE -->
+  <section class="showcase">
+    <div class="w3-container w3-display-middle w3-center w3-padding-32 ">
+      <h1 class=" w3-animate-top"> GITHUB FOR GAMERS</h1>
+      <p class="w3-animate-opacity w3-panel ">#PWNHUB</p>
+
+      <button onclick="document.getElementById('start-modal').style.display='block'" class="w3-center w3-display-bottommiddle w3-button w3-pink w3-large">Start Here</button>
+    </div>
+    <div>
+
+    
+      
+
+
+    </div>
+  </section>
+
+
+
+  <!-- MODAL -->
+  <div id="start-modal" class="w3-modal">
+    
+    <div class "w3-black">
+    
+      </div>
+    <header class="w3-container w3-gray w3-panel-third w3-left">
+      <h1>Login</h1>
+      <form class=" w3-cell w3-container w3-panel-third w3-card-1 ">
+        <p>
+        <input class="w3-input" type="text" style="width:90%" required>
+         Stay logged in
+        <label>Name</label></p>
+        <p>
+        <input class="w3-input" type="password" style="width:90%" required>
+        <label>Password</label></p>
+        
+        
+        <p>
+        
+        <label>Forgot Password</label>
+        <p>
+        <input id="milk" class="w3-check" type="checkbox" checked="checked">
+        <label>Stay logged in</label></p>
+        
+        <p>
+          <input class="Login" class ="w3-button" type="button" value="Sign in" onclick="window.location.href='home.html'">
+    </header>
+    
+
+    
+    
+      <script>
+        function accFunction(id) {
+          var x = document.getElementById(id);
+          if (x.className.indexOf("w3-show") == -1) {
+            x.className += " w3-show";
+          } else {
+            x.className = x.className.replace(" w3-show", "");
+          }
+        }
+      </script>
+</body>
+
+</html>

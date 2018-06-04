@@ -1,0 +1,49 @@
+
+.branding{
+  font-size:17px;
+  text-decoration: #FF69B4
+}
+
+}
+{}
+
+.showcase{
+  background:url('../img/back.jpg') no-repeat;
+  background-position:center;
+  height: 600px;
+  padding:140px 100px;
+  color:#fff
+}
+{
+
+.showcase h1{
+  font-size:40px;
+  font-weight:700;
+  text-transform: uppercase;
+}
+
+.showcase hr{
+  width:100px;
+  margin:auto;
+  border-width:3px;
+  border-color:#FF69B4;
+}
+
+.showcase p{
+  font-size:24px;
+  padding-bottom:20px;
+  text-decoration-color:#FF69B4;
+}
+
+
+
+@media only screen and (max-width:600px){
+  body{
+    margin-top:190px;
+  }
+
+  .showcase{
+    height:400px;
+    padding: 60px 0;
+  }
+}
