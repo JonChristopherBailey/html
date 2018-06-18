@@ -1,0 +1,7 @@
+C:\Users\Jon Bailey\Documents\Visual Studio 2017\Projects\Csharpfundamentals\Csharpfundamentals\bin\Debug\Csharpfundamentals.exe.config
+C:\Users\Jon Bailey\Documents\Visual Studio 2017\Projects\Csharpfundamentals\Csharpfundamentals\bin\Debug\Csharpfundamentals.exe
+C:\Users\Jon Bailey\Documents\Visual Studio 2017\Projects\Csharpfundamentals\Csharpfundamentals\bin\Debug\Csharpfundamentals.pdb
+C:\Users\Jon Bailey\Documents\Visual Studio 2017\Projects\Csharpfundamentals\Csharpfundamentals\obj\Debug\Csharpfundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Jon Bailey\Documents\Visual Studio 2017\Projects\Csharpfundamentals\Csharpfundamentals\obj\Debug\Csharpfundamentals.exe
+C:\Users\Jon Bailey\Documents\Visual Studio 2017\Projects\Csharpfundamentals\Csharpfundamentals\obj\Debug\Csharpfundamentals.pdb
+C:\Users\Jon Bailey\Documents\Visual Studio 2017\Projects\Csharpfundamentals\Csharpfundamentals\obj\Debug\Csharpfundamentals.csprojAssemblyReference.cache
